@@ -14,16 +14,22 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">Game Dev</h4>
-<img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=FFF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=FFF"/>
+</p>
 <h4 align="center">Front End</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFF"/>
+</p>
 <h4 align="center">and More...</h4>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFF"/>
+</p>
 
-<br><br>
+<br>
 
 [![Solved.ac
 linklingj](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
