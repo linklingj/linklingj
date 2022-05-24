@@ -31,5 +31,8 @@
 
 <br>
 
+<div align="center">
 [![Solved.ac
-최재현](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
+</div>
+
