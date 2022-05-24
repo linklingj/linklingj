@@ -9,7 +9,7 @@
 
 <h3 align="center">My Blog:</h3>
 <p align="center">
-  <a href="https://blog.naver.com/jaehyun_choi"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=FFF"/></a>
+  <a href="https://blog.naver.com/jaehyun_choi"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=FFF"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,4 +32,4 @@
 <br>
 
 [![Solved.ac
-linklingj](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
+최재현](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
