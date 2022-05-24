@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<h3 align="center">⭐Connect with me⭐</h3>
+<h4 align="center">⭐Connect with me⭐</h4>
 <p align="center">
   <a href="https://www.instagram.com/linklingj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFF"/></a>
   <a href="https://namecard.kakao.com/jaehyun"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFF"/></a>
 </p>
 
-<h3 align="center">🎈My Blog🎈</h3>
+<h4 align="center">🎈My Blog🎈</h4>
 <p align="center">
   <a href="https://blog.naver.com/jaehyun_choi"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=FFF"/></a>
 </p>
