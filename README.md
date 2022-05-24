@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm 최재현</h1>
-<h3 align="center">세종대 소프트웨어학과 22학번</h3>
+<h1 align="center">🌱최재현</h1>
+<h4 align="center">🚀세종대학교 소프트웨어학과 22학번</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/linklingj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFF"/></a>
+<a href="https://www.instagram.com/linklingj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFF"/></a>
 <a href="https://namecard.kakao.com/jaehyun"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFF"/></a>
 </p>
 
