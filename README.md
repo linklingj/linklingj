@@ -18,7 +18,7 @@
 <h4 align="center">🎮Game Dev🎮</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=FFF"/>
-  <a href="https://scratch.mit.edu/users/jaehyun413/"><img src="https://img.shields.io/badge/Scratch-FFD000?style=flat-square&logo=Unity&logoColor=FFF"/></a>
+  <a href="https://scratch.mit.edu/users/jaehyun413/"><img src="https://img.shields.io/badge/Scratch-FFD000?style=flat-square&logo=Scratch&logoColor=FFF"/></a>
 </p>
 <h4 align="center">🎨Front End🎨</h4>
 <p align="center">
