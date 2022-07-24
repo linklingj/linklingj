@@ -18,13 +18,15 @@
 <h4 align="center">🎮Game Dev🎮</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=FFF"/>
   <a href="https://scratch.mit.edu/users/jaehyun413/"><img src="https://img.shields.io/badge/Scratch-FFD000?style=flat-square&logo=Scratch&logoColor=FFF"/></a>
 </p>
-<h4 align="center">🎨Front End🎨</h4>
+<h4 align="center">🎨Web Dev🎨</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFF"/>
 </p>
 <h4 align="center">📌and More...📌</h4>
 <p align="center">
