@@ -39,7 +39,7 @@
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=linklingj)](https://solved.ac/linklingj)
 
-<h2 align="center">Most Used Language</h2>
+<h2 align="center">🌏Most Used Language🌏</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linklingj&layout=compact&theme=tokyonight&langs_count=8">
 
 </div>
