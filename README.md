@@ -25,7 +25,7 @@ I enjoy building systems that combine <b>AI, graphics, and interactive experienc
 <h4 align="center">Game Dev</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff"/>
 </p>
 <h4 align="center">and More...</h4>
