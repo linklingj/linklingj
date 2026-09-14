@@ -15,13 +15,6 @@ I enjoy building systems that combine <b>AI, graphics, and interactive experienc
 • Game Development (Game AI using <b>Reinforcement Learning</b>)
 </p>
 
-<h4 align="center">⭐ Connect with me</h4>
-<p align="center">
-  <a href="https://www.instagram.com/linklingj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFF"/></a>
-  <a href="https://namecard.kakao.com/jaehyun"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFF"/></a>
-  <a href="https://blog.naver.com/jaehyun_choi"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=FFF"/></a>
-</p>
-
 <h2 align="center">🛠Languages and Skills🛠</h2>
 <h4 align="center">Deep Learning</h4>
 <p align="center">
